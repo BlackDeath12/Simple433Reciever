@@ -1,5 +1,5 @@
 ## WARNING: This is an outdated code!
-(For an updated version of this code which uses a Python library that's easier to use, go to my other repository, [receiverLibrary](https://github.com/BlackDeath12/receiverLibrary)
+(For an updated version of this code which is built in a Python library that's easier to use, go to my other repository, [receiverLibrary](https://github.com/BlackDeath12/receiverLibrary)
 
 Simple 433mhz radio receiver protocol that checks if a binary code is received by a radio module that outputs digital signals. Based on the Manchester Code. 
 
